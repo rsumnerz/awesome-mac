@@ -72,6 +72,7 @@ Plugin
 * [ivim](https://github.com/kepbod/ivim) - An easy & highly customizable vim configuration.
 
 
+  
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
